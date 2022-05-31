@@ -1,0 +1,228 @@
+.flex{
+    background-color:rgba(0,0,0,0.8);
+    display: flex;
+    justify-content: center; 
+    text-align: center; 
+    padding: 10px; 
+      
+}
+.navpadding{
+    padding: 19px;
+    text-decoration: none;
+    color:#c9c9dc;
+    font-size:80%;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif; 
+     
+    
+}
+
+.navpadding:hover{
+    color: white;
+}
+.unicef{
+    display: flex;
+    justify-content: center;
+    background-color: #f5f5f7;
+    padding: 15px;
+    
+    
+}
+.add{
+     text-decoration: none;
+     padding: 12px;
+     text-align: center;
+     justify-content: center;
+     display: flex;
+     color: rgb(0, 102, 204);
+     font-family: Arial, Helvetica, sans-serif;
+     font-size:small;
+     font-weight: 5000;
+     
+
+}
+.add:hover{
+    text-decoration: underline;
+}
+.pro{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 12px;
+    font-size: xx-large;
+    font-family: sans-serif; 
+      
+    
+}
+.thirteen{
+    text-decoration: none;
+    color: black;
+    
+}
+.q{
+    font-weight:bold;
+}
+
+.ww{
+    text-align: center;
+    display: flex;
+    justify-content: center;  
+}
+.shoaib{
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.learn{
+    padding: 25px;
+    font-size:larger;
+    text-decoration: none;
+    color: #06c;
+}
+.learn:hover{
+    text-decoration: underline;
+}
+.max{
+    display: flex;
+    justify-content: center;
+}
+.usama{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    
+}
+.ig{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+
+}
+.king{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;  
+}
+.karachi{
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;    
+}
+.gulshan{
+    font-size: larger;
+    padding: 20px;
+    text-decoration: none;
+    color:#06c;
+}
+.gulshan:hover{
+    text-decoration: underline;
+}
+.se{
+    display: flex;
+    justify-content: center;
+}
+.usama3{
+    display: flex;
+}
+.usama5{
+    margin-left: 12px;
+}
+.watch2{
+    margin-left: 12px;
+    margin-top: 8px;
+}
+.watch1{
+    margin-top: 8px;
+}
+.koko{
+    margin-left: 12px;
+    margin-top: 8px;
+}
+.doko{
+    margin-top: 8px; 
+}
+.lahore{
+    align-items: center;
+    
+    justify-content: center ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    padding: 0px 170px 10px 100px;
+    font-size: 0.8rem;
+    color: #6e6e73;
+    
+}
+.mom{
+    text-decoration: none;
+    color: #4c4c50;
+}
+.mom:hover{
+    text-decoration: underline;
+}
+.gap{
+    padding: 5px;
+    text-align: inherit;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    
+    
+}
+.geo{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: inherit;
+    font-size: 12px;
+    font-weight: 600;
+    color: rgb(85, 85, 85);
+    letter-spacing: -.01em;;
+    padding: 8px;
+    
+
+    
+}
+.d{
+    text-decoration: none;
+    color: #6e6e73;
+    
+}
+.d:hover{
+    text-decoration: underline;
+}
+.earth{
+    margin-left: 220px;
+}
+.full{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 150px;
+    color: #6e6e73;
+}
+.girl{
+    color: #0066cc;
+    text-decoration: none;
+}
+.girl:hover{
+    text-decoration: underline;
+}
+.orange{
+    text-decoration: none;
+    color: #4c4c50;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding: 10px;
+}
+.ok{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #6e6e73;
+    margin-left: 150px;
+    font-size: 12px;
+}
+.orange:hover{
+    text-decoration: underline;
+}
+.us{
+    font-family: Arial, Helvetica, sans-serif;
+}
